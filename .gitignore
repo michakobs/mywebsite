@@ -1,2 +1,5 @@
 2.txt
 ignore/
+access.log
+auth.log
+error.log
